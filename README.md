@@ -1,11 +1,13 @@
 # Livro de Receitas :man_cook: #
 
-## Olá, bem vindo ao meu livro de Receitas  ##
+## Olá, bem vindo ao meu livro de Receitas :writing_hand:  ##
 
 
 
-- ### Strogonof de frango ###
+- ### Strogonoff de frango ###
 
-- ## Pave ##
+- ## Pavê ##
+
+- ## Bolo de Cenoura ##
 
   
